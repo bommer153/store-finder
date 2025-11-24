@@ -1,0 +1,115 @@
+{
+  "branches": [
+    {
+      "id": "BIC-001",
+      "name": "Bicutan",
+      "storeName": "Mary Grace",
+      "address": "Bicutan, Parañaque City",
+      "phone": "+63 2 8888 1234",
+      "isp": "PLDT Fiber",
+      "anyDeskId": "123-456-789",
+      "area": "South",
+      "keywords": ["bicutan mary grace", "paranaque branch", "south cluster"]
+    },
+    {
+      "id": "MKT-002",
+      "name": "Makati Avenue",
+      "storeName": "Mary Grace",
+      "address": "729 Makati Avenue, Makati City",
+      "phone": "+63 2 8899 2244",
+      "isp": "Globe Business",
+      "anyDeskId": "987-654-321",
+      "area": "South",
+      "keywords": ["makati ave", "makati", "makati city"]
+    },
+    {
+      "id": "BGC-003",
+      "name": "Bonifacio Global City",
+      "storeName": "Mary Grace",
+      "address": "30th St. corner 9th Ave., Taguig",
+      "phone": "+63 2 8866 5522",
+      "isp": "Converge ICT",
+      "anyDeskId": "456-789-123",
+      "area": "South",
+      "keywords": ["bgc high street", "fort bonifacio", "taguig branch", "bgc"]
+    },
+    {
+      "id": "GRH-004",
+      "name": "Greenhills",
+      "storeName": "Mary Grace",
+      "address": "Greenhills Shopping Center, San Juan",
+      "phone": "+63 2 8723 4411",
+      "isp": "PLDT Enterprise",
+      "anyDeskId": "741-852-963",
+      "area": "East",
+      "keywords": ["greenhills promenade", "san juan branch", "gh shopping" , "gh"]
+    },
+    {
+      "id": "QZN-005",
+      "name": "Quezon City Circle",
+      "storeName": "Mary Grace",
+      "address": "Commonwealth Ave., Quezon City",
+      "phone": "+63 2 8777 0066",
+      "isp": "Globe Fiber",
+      "anyDeskId": "159-357-258",
+      "area": "North",
+      "keywords": ["quezon memorial circle", "commonwealth branch", "north cluster", "qc" , "circle"]
+    },
+    {
+      "id": "ALB-006",
+      "name": "Alabang Town",
+      "storeName": "Mary Grace",
+      "address": "Alabang Town Center, Muntinlupa",
+      "phone": "+63 2 8800 4433",
+      "isp": "Eastern Communications",
+      "anyDeskId": "258-147-369",
+      "area": "South",
+      "keywords": ["atc branch", "muntinlupa", "filinvest" , "alabang"]
+    },
+    {
+      "id": "ORT-007",
+      "name": "Ortigas Center",
+      "storeName": "Mary Grace",
+      "address": "Julia Vargas Ave., Pasig City",
+      "phone": "+63 2 8855 7788",
+      "isp": "SKYbiz",
+      "anyDeskId": "369-258-147",
+      "area": "East",
+      "keywords": ["ortigas cbd", "pasig branch", "podium nearby" , "ortigas"]
+    },
+    {
+      "id": "CEB-008",
+      "name": "Cebu IT Park",
+      "storeName": "Mary Grace",
+      "address": "IT Park, Lahug, Cebu City",
+      "phone": "+63 32 234 5566",
+      "isp": "PLDT Fiber",
+      "anyDeskId": "654-321-987",
+      "area": "Visayas",
+      "keywords": ["lahug", "cebu it park branch", "visayas cluster" , "cebu"]
+    },
+    {
+      "id": "DAV-009",
+      "name": "Davao Downtown",
+      "storeName": "Mary Grace",
+      "address": "J.P. Laurel Ave., Davao City",
+      "phone": "+63 82 298 4455",
+      "isp": "Globe Business",
+      "anyDeskId": "852-963-741",
+      "area": "Mindanao",
+      "keywords": ["davao city", "abreeza nearby", "mindanao branch" , "davao"]
+    },
+    {
+      "id": "BAG-010",
+      "name": "Baguio Session",
+      "storeName": "Mary Grace",
+      "address": "Session Road, Baguio City",
+      "phone": "+63 74 442 7788",
+      "isp": "Converge ICT",
+      "anyDeskId": "753-159-456",
+      "area": "North",
+      "keywords": ["session road", "baguio branch", "summer capital" , "baguio"]
+    }
+  ]
+}
+
