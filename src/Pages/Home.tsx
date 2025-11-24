@@ -195,11 +195,7 @@ function Home() {
                                             <div>
                                                 <p className="text-sm text-gray-600">Address</p>
                                                 <p className="text-base font-medium text-gray-900">{searchResult.address}</p>
-                                            </div>
-                                            <div>
-                                                <p className="text-sm text-gray-600">Area</p>
-                                                <p className="text-base font-medium text-gray-900">{searchResult.area}</p>
-                                            </div>
+                                            </div>                                           
                                         </div>
                                     </div>
                                     
